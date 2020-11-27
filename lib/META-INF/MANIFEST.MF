@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.7
+Created-By: 1.8.0_222-b10 (Oracle Corporation)
+Specification-Title: Eclipse Persistence Services Source
+Specification-Vendor: Eclipse.org - EclipseLink Project
+Specification-Version: 2.7.7
+Implementation-Title: org.eclipse.persistence
+Implementation-Vendor: Eclipse.org - EclipseLink Project
+Implementation-Version: 2.7.7.v20200504-69f2c2b80d
+Release-Designation: EclipseLink 2.7.7
+
